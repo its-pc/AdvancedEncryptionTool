@@ -27,17 +27,11 @@ HOW TO RUN:
 4. Click "Encrypt" or "Decrypt"
 
 
-## 📸 Screenshot
-
-![Screenshot](https://i.postimg.cc/zXHT9Ktn/Screenshot.png)
-
 
 OUTPUT:
 -------
 Encrypted file: `yourfile.txt.enc`
 Decrypted file: `yourfile.txt.dec`
-
-
 
 
 
