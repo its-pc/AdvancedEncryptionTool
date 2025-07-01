@@ -31,10 +31,10 @@ OUTPUT:
 Encrypted file: `yourfile.txt.enc`
 Decrypted file: `yourfile.txt.dec`
 
-
 ## 📸 Screenshot
 
-![Screenshot-3](https://i.postimg.cc/pVjYWqS0/Screenshot-3.png)
+![Screenshot](https://i.postimg.cc/zXHT9Ktn/Screenshot.png)
+
 
 
 SECURITY NOTES:
