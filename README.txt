@@ -26,14 +26,18 @@ HOW TO RUN:
 3. Enter a 32-character password
 4. Click "Encrypt" or "Decrypt"
 
+
+## 📸 Screenshot
+
+![Screenshot](https://i.postimg.cc/zXHT9Ktn/Screenshot.png)
+
+
 OUTPUT:
 -------
 Encrypted file: `yourfile.txt.enc`
 Decrypted file: `yourfile.txt.dec`
 
-## 📸 Screenshot
 
-![Screenshot](https://i.postimg.cc/zXHT9Ktn/Screenshot.png)
 
 
 
