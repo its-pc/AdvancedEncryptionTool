@@ -31,6 +31,12 @@ OUTPUT:
 Encrypted file: `yourfile.txt.enc`
 Decrypted file: `yourfile.txt.dec`
 
+
+## 📸 Screenshot
+
+![App Screenshot](https://i.postimg.cc/pVjYWqS0/Screenshot-3.png)
+
+
 SECURITY NOTES:
 ---------------
 - Password must be exactly 32 characters (AES-256 key length)
