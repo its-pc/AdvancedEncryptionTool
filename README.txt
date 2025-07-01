@@ -34,7 +34,7 @@ Decrypted file: `yourfile.txt.dec`
 
 ## 📸 Screenshot
 
-![App Screenshot](https://i.postimg.cc/pVjYWqS0/Screenshot-3.png)
+![Screenshot](https://i.postimg.cc/pVjYWqS0/Screenshot-3.png)
 
 
 SECURITY NOTES:
