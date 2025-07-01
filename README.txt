@@ -1,6 +1,5 @@
 PROJECT REPORT: ADVANCED ENCRYPTION TOOL
 
-Developer: Pujita Choudhary
 Technology: Python 3, Tkinter, AES-256 (pycryptodome)
 
 DESCRIPTION:
