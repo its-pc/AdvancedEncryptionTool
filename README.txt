@@ -1,6 +1,5 @@
 PROJECT REPORT: ADVANCED ENCRYPTION TOOL
 
-Developer: Pujita Choudhary
 Technology: Python 3, Tkinter, AES-256 (pycryptodome)
 
 DESCRIPTION:
@@ -27,10 +26,6 @@ HOW TO RUN:
 3. Enter a 32-character password
 4. Click "Encrypt" or "Decrypt"
 
-OUTPUT:
--------
-Encrypted file: `yourfile.txt.enc`
-Decrypted file: `yourfile.txt.dec`
 
 SECURITY NOTES:
 ---------------
